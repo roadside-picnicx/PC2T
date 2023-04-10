@@ -1,3 +1,2 @@
 # PC2T
-Not as bad as it looks
-(most of this code is stolen anyway)
+Not as bad as it looks. Bunch of assignments from BPC-PC2T, some are missing.
